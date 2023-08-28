@@ -254,8 +254,8 @@ const app = {
         this.loadCurrentSong();
         this.render();
 
-        randomBtn.classList.toggle('active', this.isRandom);
-        repeatBtn.classList.toggle('active', this.isRepeat);
+        // randomBtn.classList.toggle('active', this.isRandom);
+        // repeatBtn.classList.toggle('active', this.isRepeat);
     } 
 }
 app.start();
