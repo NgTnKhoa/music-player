@@ -23,62 +23,62 @@ const app = {
     config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
     songs: [
         {
-            name: 'Đừng ai nhắc về cô ấy',
+            name: 'Đừng Ai Nhắc Về Cô Ấy',
             singer: 'Remix',
             path: './assets/music/Đừng ai nhắc về cô ấy Remix.mp3',
             image: './assets/img/NMNTLC-img.jpg'
         },
         {
-            name: 'Anh Tự Do Nhưng Cô Đơn',
-            singer: 'Đạt G',
+            name: 'Đừng Quay Đi Anh Hãy Nhìn Lại',
+            singer: 'Remix',
             path: './assets/music/Đừng quay đi em hãy nhìn lại hay là em hết yêu anh Remix.mp3',
             image: './assets/img/ATDNCD-img.jpg'
         },
         {
-            name: 'Havana',
-            singer: 'Camila Cabello',
+            name: 'Em Đã Xa Anh',
+            singer: 'Remix',
             path: './assets/music/Em đã xa anh Remix.mp3',
             image: './assets/img/HVN-img.jpg'
         },
         {
-            name: 'Hãy Trao Cho Anh',
-            singer: 'Sơn Tùng MTP',
+            name: 'Em Là Kẻ Đáng Thương',
+            singer: 'Remix',
             path: './assets/music/Em là kẻ đáng thương Remix.mp3',
             image: './assets/img/HTCA-img.jpg'
         },
         {
-            name: 'Ngủ Một Mình',
-            singer: 'HIEUTHUHAI',
+            name: 'Giá Như Anh Là Người Vô Tâm',
+            singer: 'Remix',
             path: './assets/music/Giá như anh là người vô tâm Remix.mp3',
             image: './assets/img/NMM-img.jpg'
         },
         {
-            name: 'Ngày Mai Em Đi Mất',
-            singer: 'Đạt G',
+            name: 'Không Còn Trọn Vẹn',
+            singer: 'Remix',
             path: './assets/music/Không còn trọn vẹn Remix.mp3',
             image: './assets/img/NMEDM-img.jpg'
         },
         {
-            name: 'Ngày Mai Em Đi Mất',
-            singer: 'Đạt G',
+            name: 'Kissing On My Tattoos',
+            singer: 'Remix',
             path: './assets/music/Kissing On My Tattoos Remix.mp3',
             image: './assets/img/NMEDM-img.jpg'
         },
         {
-            name: 'Ngày Mai Em Đi Mất',
-            singer: 'Đạt G',
+            name: 'Lụy Tình',
+            singer: 'Remix',
             path: './assets/music/Lụy tình Remix.mp3',
             image: './assets/img/NMEDM-img.jpg'
         },
         {
-            name: 'Ngày Mai Em Đi Mất',
-            singer: 'Đạt G',
+            name: 'Yêu Đừng Sợ Đau',
+            singer: 'Remix',
             path: './assets/music/Yêu đừng sợ đau Remix.mp3',
             image: './assets/img/NMEDM-img.jpg'
         },
         {
-            name: 'Ngày Mai Em Đi Mất',
-            singer: 'Đạt G',
+            name: 'Yêu Thương Chẳng Là Mãi Mãi',
+            singer: 'Remix',
             path: './assets/music/Yêu thương chẳng là mãi mãi Remix.mp3',
             image: './assets/img/NMEDM-img.jpg'
         }
