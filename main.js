@@ -26,61 +26,61 @@ const app = {
             name: 'Đừng Ai Nhắc Về Cô Ấy',
             singer: 'Remix',
             path: './assets/music/Đừng ai nhắc về cô ấy Remix.mp3',
-            image: './assets/img/NMNTLC-img.jpg'
+            image: './assets/img/1.jpg'
         },
         {
             name: 'Đừng Quay Đi Anh Hãy Nhìn Lại',
             singer: 'Remix',
             path: './assets/music/Đừng quay đi em hãy nhìn lại hay là em hết yêu anh Remix.mp3',
-            image: './assets/img/ATDNCD-img.jpg'
+            image: './assets/img/2.jpg'
         },
         {
             name: 'Em Đã Xa Anh',
             singer: 'Remix',
             path: './assets/music/Em đã xa anh Remix.mp3',
-            image: './assets/img/HVN-img.jpg'
+            image: './assets/img/3.jpg'
         },
         {
             name: 'Em Là Kẻ Đáng Thương',
             singer: 'Remix',
             path: './assets/music/Em là kẻ đáng thương Remix.mp3',
-            image: './assets/img/HTCA-img.jpg'
+            image: './assets/img/4.jpg'
         },
         {
             name: 'Giá Như Anh Là Người Vô Tâm',
             singer: 'Remix',
             path: './assets/music/Giá như anh là người vô tâm Remix.mp3',
-            image: './assets/img/NMM-img.jpg'
+            image: './assets/img/5.jpg'
         },
         {
             name: 'Không Còn Trọn Vẹn',
             singer: 'Remix',
             path: './assets/music/Không còn trọn vẹn Remix.mp3',
-            image: './assets/img/NMEDM-img.jpg'
+            image: './assets/img/6.jpg'
         },
         {
             name: 'Kissing On My Tattoos',
             singer: 'Remix',
             path: './assets/music/Kissing On My Tattoos Remix.mp3',
-            image: './assets/img/NMEDM-img.jpg'
+            image: './assets/img/7.jpg'
         },
         {
             name: 'Lụy Tình',
             singer: 'Remix',
             path: './assets/music/Lụy tình Remix.mp3',
-            image: './assets/img/NMEDM-img.jpg'
+            image: './assets/img/8.jpg'
         },
         {
             name: 'Yêu Đừng Sợ Đau',
             singer: 'Remix',
             path: './assets/music/Yêu đừng sợ đau Remix.mp3',
-            image: './assets/img/NMEDM-img.jpg'
+            image: './assets/img/9.jpg'
         },
         {
             name: 'Yêu Thương Chẳng Là Mãi Mãi',
             singer: 'Remix',
             path: './assets/music/Yêu thương chẳng là mãi mãi Remix.mp3',
-            image: './assets/img/NMEDM-img.jpg'
+            image: './assets/img/10.jpg'
         }
     ],
     setConfig: function(key, value) {
