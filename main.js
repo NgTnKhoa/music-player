@@ -23,8 +23,8 @@ const app = {
     config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
     songs: [
         {
-            name: 'Ngày Mai Người Ta Lấy Chồng',
-            singer: 'Thành Đạt',
+            name: 'Đừng ai nhắc về cô ấy',
+            singer: 'Remix',
             path: './assets/music/Đừng ai nhắc về cô ấy Remix.mp3',
             image: './assets/img/NMNTLC-img.jpg'
         },
