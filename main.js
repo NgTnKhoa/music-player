@@ -25,37 +25,61 @@ const app = {
         {
             name: 'Ngày Mai Người Ta Lấy Chồng',
             singer: 'Thành Đạt',
-            path: './assets/music/NgayMaiNguoiTaLayChong-AnhTu.mp3',
+            path: './assets/music/Đừng ai nhắc về cô ấy Remix.mp3',
             image: './assets/img/NMNTLC-img.jpg'
         },
         {
             name: 'Anh Tự Do Nhưng Cô Đơn',
             singer: 'Đạt G',
-            path: './assets/music/AnhTuDoNhungCoDon-DatG.mp3',
+            path: './assets/music/Đừng quay đi em hãy nhìn lại hay là em hết yêu anh Remix.mp3',
             image: './assets/img/ATDNCD-img.jpg'
         },
         {
             name: 'Havana',
             singer: 'Camila Cabello',
-            path: './assets/music/Havana-CamilaCabello.mp3',
+            path: './assets/music/Em đã xa anh Remix.mp3',
             image: './assets/img/HVN-img.jpg'
         },
         {
             name: 'Hãy Trao Cho Anh',
             singer: 'Sơn Tùng MTP',
-            path: './assets/music/HayTraoChoAnh-SonTungMTP.mp3',
+            path: './assets/music/Em là kẻ đáng thương Remix.mp3',
             image: './assets/img/HTCA-img.jpg'
         },
         {
             name: 'Ngủ Một Mình',
             singer: 'HIEUTHUHAI',
-            path: './assets/music/NguMotMinh-HIEUTHUHAI.mp3',
+            path: './assets/music/Giá như anh là người vô tâm Remix.mp3',
             image: './assets/img/NMM-img.jpg'
         },
         {
             name: 'Ngày Mai Em Đi Mất',
             singer: 'Đạt G',
-            path: './assets/music/NgayMaiEmDiMat-DatG.mp3',
+            path: './assets/music/Không còn trọn vẹn Remix.mp3',
+            image: './assets/img/NMEDM-img.jpg'
+        },
+        {
+            name: 'Ngày Mai Em Đi Mất',
+            singer: 'Đạt G',
+            path: './assets/music/Kissing On My Tattoos Remix.mp3',
+            image: './assets/img/NMEDM-img.jpg'
+        },
+        {
+            name: 'Ngày Mai Em Đi Mất',
+            singer: 'Đạt G',
+            path: './assets/music/Lụy tình Remix.mp3',
+            image: './assets/img/NMEDM-img.jpg'
+        },
+        {
+            name: 'Ngày Mai Em Đi Mất',
+            singer: 'Đạt G',
+            path: './assets/music/Yêu đừng sợ đau Remix.mp3',
+            image: './assets/img/NMEDM-img.jpg'
+        },
+        {
+            name: 'Ngày Mai Em Đi Mất',
+            singer: 'Đạt G',
+            path: './assets/music/Yêu thương chẳng là mãi mãi Remix.mp3',
             image: './assets/img/NMEDM-img.jpg'
         }
     ],
