@@ -16,6 +16,10 @@ body {
 html {
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    /* ảnh nền ngay đây */
+    background-image: url(./img/Background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .player {
