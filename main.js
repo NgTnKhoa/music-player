@@ -81,6 +81,12 @@ const app = {
             singer: 'Remix',
             path: './assets/music/Yêu thương chẳng là mãi mãi Remix.mp3',
             image: './assets/img/10.jpg'
+        },
+        {
+            name: 'Khuất lối',
+            singer: 'Remix',
+            path: './assets/music/Khuất lối Remix.mp3',
+            image: './assets/img/11.jpg'
         }
     ],
     setConfig: function(key, value) {
