@@ -85,7 +85,7 @@ const app = {
         {
             name: 'Khuất lối',
             singer: 'Remix',
-            path: './assets/music/Khuất lối Remix.mp3',
+            path: './assets/music/Khuất Lối Remix.mp3',
             image: './assets/img/11.jpg'
         }
     ],
