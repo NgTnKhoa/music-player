@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #ec1f55;
-    --text-color: #333;
+    --primary-color: #575757;
+    --text-color: white;
 }
 
 * {
@@ -41,12 +41,11 @@ html {
 
 .dashboard {
     padding: 16px 16px 14px;
-    background-color: #fff;
+    background-color: #575757;
     position: fixed;
     top: 0;
     width: 100%;
     max-width: 480px;
-    border-bottom: 1px solid #ebebeb;
     border-radius: 10px;
 }
 
@@ -57,7 +56,7 @@ header {
 }
 
 header h4 {
-    color: var(--primary-color);
+    color: #242424;
     font-size: 12px;
 }
 
@@ -91,13 +90,13 @@ header h2 {
 }
 
 .control .btn {
-    color: #666;
+    color: white;
     padding: 18px;
     font-size: 18px;
 }
 
 .control .btn.active {
-    color: var(--primary-color);
+    color: #242424;
 }
 
 .control .btn-toggle-play {
@@ -109,7 +108,7 @@ header h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--primary-color);
+    background-color: #242424;
 }
 
 .progress {
@@ -121,6 +120,7 @@ header h2 {
     opacity: 0.7;
     -webkit-transition: 0.2s;
     transition: opacity 0.2s;
+    color: red;
 }
 
 .progress::-webkit-slider-thumb {
@@ -128,7 +128,7 @@ header h2 {
     appearance: none;
     width: 12px;
     height: 6px;
-    background-color: var(--primary-color);
+    background-color: #242424;
     cursor: pointer;
 }
 
@@ -142,14 +142,14 @@ header h2 {
     display: flex;
     align-items: center;
     margin-bottom: 12px;
-    background-color: #fff;
+    background-color: rgb(87, 87, 87, 0.8);
     padding: 8px 16px;
     border-radius: 5px;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
 
 .song.active {
-    background-color: var(--primary-color);
+    background-color: #242424;
 }
 
 .song:active {
@@ -182,7 +182,7 @@ header h2 {
 
 .song .author {
     font-size: 12px;
-    color: #999;
+    color: white;
 }
 
 .song .option {
