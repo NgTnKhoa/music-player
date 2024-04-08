@@ -88,6 +88,7 @@ const app = {
             path: './assets/music/Khuất Lối Remix.mp3',
             image: './assets/img/11.jpg'
         }
+    ],
     setConfig: function(key, value) {
         this.config[key] = value;
         localStorage.setItem(PLAYER_STORAGE_KEY, JSON.stringify(this.config));
